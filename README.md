@@ -1,0 +1,2 @@
+# Exercise-SQL-Queries-for-HAVING
+Create a report that shows the order ids and the associated employee names for orders that shipped after the required date (37 rows) Create a report that shows the total quantity of products (from the Order_Details table) ordered. Only show records for products for which the quantity ordered is fewer than 200 (5 rows) Create a report that shows the total number of orders by Customer since December 31, 1996. The report should only return rows for which the total number of orders is greater than 15 (5 rows)
